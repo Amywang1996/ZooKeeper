@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9707823d-0f22-43b8-a77e-05e768d7707b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/worksoftware/apache-maven-3.5.2-bin/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="D:\worksoftware\studymaven\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eGMLhgXYPYxTG9veft68XbQb4K" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.DistributeClient">
+    <configuration name="DistributeClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.apache.zookeeper.DistributeClient" />
+      <module name="zookeepr" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.apache.zookeeper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DistributeServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.apache.zookeeper.DistributeServer" />
+      <module name="zookeepr" />
+      <option name="PROGRAM_PARAMETERS" value="hadoop103" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.apache.zookeeper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestZookeeper.createNode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zookeepr" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.apache.zookeeper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.apache.zookeeper" />
+      <option name="MAIN_CLASS_NAME" value="com.apache.zookeeper.TestZookeeper" />
+      <option name="METHOD_NAME" value="createNode" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestZookeeper.exist" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zookeepr" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.apache.zookeeper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.apache.zookeeper" />
+      <option name="MAIN_CLASS_NAME" value="com.apache.zookeeper.TestZookeeper" />
+      <option name="METHOD_NAME" value="exist" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestZookeeper.getDataAndWatch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zookeepr" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.apache.zookeeper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.apache.zookeeper" />
+      <option name="MAIN_CLASS_NAME" value="com.apache.zookeeper.TestZookeeper" />
+      <option name="METHOD_NAME" value="getDataAndWatch" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.DistributeClient" />
+      <item itemvalue="Application.DistributeServer" />
+      <item itemvalue="JUnit.TestZookeeper.createNode" />
+      <item itemvalue="JUnit.TestZookeeper.exist" />
+      <item itemvalue="JUnit.TestZookeeper.getDataAndWatch" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DistributeServer" />
+        <item itemvalue="Application.DistributeClient" />
+        <item itemvalue="JUnit.TestZookeeper.exist" />
+        <item itemvalue="JUnit.TestZookeeper.getDataAndWatch" />
+        <item itemvalue="JUnit.TestZookeeper.createNode" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9707823d-0f22-43b8-a77e-05e768d7707b" name="Default Changelist" comment="" />
+      <created>1593943421534</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593943421534</updated>
+      <workItem from="1593943424503" duration="8407000" />
+      <workItem from="1593963166990" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
